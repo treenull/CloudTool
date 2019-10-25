@@ -1,0 +1,179 @@
+﻿/*
+* The LGPL License
+*
+* Project created by QtCreator 2019-09-14T16:42:25
+*
+* Author :  WYJ
+*
+*/
+
+
+
+QWidget#widget
+{
+    border-image: url(:/image/Bluetheme.png);
+}
+
+
+
+QWidget#homeWidget
+{
+    background: rgb(254,254,254);
+}
+
+
+
+QFrame#frame
+{
+    background-color: rgb(254, 254, 254);
+}
+
+
+QLabel#logo_label
+{
+    border-image: url(:/image/mainwindow_logo.png);
+}
+
+
+QPushButton#pushButton
+{
+    border-image: url(:/image/button_1.png);
+}
+QPushButton#pushButton:hover
+{
+    border-image: url(:/image/button_2.png);
+}
+QPushButton#pushButton:checked
+{
+    border-image: url(:/image/button_2.png);
+}
+
+QPushButton#pushButton_2
+{
+    border-image: url(:/image/button_4.png);
+}
+QPushButton#pushButton_2:hover
+{
+    border-image: url(:/image/button_5.png);
+}
+QPushButton#pushButton_2:checked
+{
+    border-image: url(:/image/button_5.png);
+}
+
+QPushButton#pushButton_3
+{
+    border-image: url(:/image/button_7.png);
+}
+QPushButton#pushButton_3:hover
+{
+    border-image: url(:/image/button_8.png);
+}
+QPushButton#pushButton_3:checked
+{
+    border-image: url(:/image/button_8.png);
+}
+
+QPushButton#pushButton_4
+{
+    border-image: url(:/image/button_10.png);
+}
+QPushButton#pushButton_4:hover
+{
+    border-image: url(:/image/button_11.png);
+}
+QPushButton#pushButton_4:checked
+{
+    border-image: url(:/image/button_11.png);
+}
+
+QPushButton#pushButton_5
+{
+    border-image: url(:/image/button_13.png);
+}
+QPushButton#pushButton_5:hover
+{
+    border-image: url(:/image/button_14.png);
+}
+QPushButton#pushButton_5:checked
+{
+    border-image: url(:/image/button_14.png);
+}
+
+QPushButton#pushButton_6
+{
+    border-image: url(:/image/button_16.png);
+}
+QPushButton#pushButton_6:hover
+{
+    border-image: url(:/image/button_17.png);
+}
+QPushButton#pushButton_6:checked
+{
+    border-image: url(:/image/button_17.png);
+}
+
+
+
+QPushButton#pushButton_close
+{
+    border-image: url(:/image/close.png);
+}
+QPushButton#pushButton_close:hover
+{
+    border-image: url(:/image/close2.png);
+}
+
+QPushButton#pushButton_min
+{
+    border-image: url(:/image/min.png);
+}
+QPushButton#pushButton_min:hover
+{
+    border-image: url(:/image/min2.png);
+}
+
+QToolButton#toolButton_menu
+{
+    border-image: url(:/image/menu.png);
+}
+QToolButton#toolButton_menu:hover
+{
+    border-image: url(:/image/menu2.png);
+}
+
+QPushButton#pushButton_skin
+{
+    border-image: url(:/image/skin.png);
+}
+QPushButton#pushButton_skin:hover
+{
+    border-image: url(:/image/skin2.png);
+}
+
+
+QWidget#scrollAreaWidgetContents
+{
+    background: rgb(254,254,254);
+}
+
+
+
+.QToolButton
+{
+        color:black;
+}
+
+.QToolButton:hover
+{
+        color:blue;
+}
+
+
+
+QLabel#label
+{
+    font: 18pt "仿宋";
+}
+
+

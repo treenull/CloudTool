@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/GitHub.ico</file>
+        <file>image/close.png</file>
+        <file>image/close2.png</file>
+        <file>image/min.png</file>
+        <file>image/min2.png</file>
+        <file>image/menu.png</file>
+        <file>image/menu2.png</file>
+        <file>Qss.qss</file>
+        <file>version_logo.rc</file>
+        <file>image/button_1.png</file>
+        <file>image/skin.png</file>
+        <file>image/skin2.png</file>
+        <file>image/button_4.png</file>
+        <file>image/button_7.png</file>
+        <file>image/button_10.png</file>
+        <file>image/button_13.png</file>
+        <file>image/button_16.png</file>
+        <file>image/loading.png</file>
+        <file>image/Bluetheme.png</file>
+        <file>image/button_2.png</file>
+        <file>image/button_5.png</file>
+        <file>image/button_8.png</file>
+        <file>image/button_11.png</file>
+        <file>image/button_14.png</file>
+        <file>image/button_17.png</file>
+        <file>image/mainwindow_logo.png</file>
+    </qresource>
+</RCC>

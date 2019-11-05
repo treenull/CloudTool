@@ -8,7 +8,7 @@
 
  * 软件下载请转往：[发布页面](https://github.com/onlywyj/CloudTool/releases)
 
- * 或者选择网盘下载：https://www.lanzous.com/i6ysl0j
+ * 或者选择网盘下载：https://www.lanzous.com/b00n5iagd
 
 #### 使用界面
 

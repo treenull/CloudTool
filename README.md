@@ -6,13 +6,13 @@
 
  * Gitee主页：https://gitee.com/onlywyj/CloudTool
 
- * 软件下载请转往：[发布页面](https://github.com/onlywyj/CloudTool/releases)
+ * 软件下载或更新日志请转往：[发布页面](https://github.com/onlywyj/CloudTool/releases)
 
  * 或者选择网盘下载：https://www.lanzous.com/b00n5iagd
 
 #### 使用界面
 
-<img width="276" height="244" src="https://github.com/onlywyj/CloudTool/blob/master/README_image/CloudTool.png"/>   <img width="276" height="244" src="https://github.com/onlywyj/CloudTool/blob/master/README_image/CloudTool2.png"/>   <img width="276" height="244" src="https://github.com/onlywyj/CloudTool/blob/master/README_image/CloudTool3.png"/>
+<img width="276" height="244" src="https://raw.githubusercontent.com/onlywyj/CloudTool/master/README_image/CloudTool.png"/>   <img width="276" height="244" src="https://raw.githubusercontent.com/onlywyj/CloudTool/master/README_image/CloudTool2.png"/>   <img width="276" height="244" src="https://raw.githubusercontent.com/onlywyj/CloudTool/master/README_image/CloudTool3.png"/>
 
 #### 源代码使用说明
 

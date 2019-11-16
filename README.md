@@ -14,6 +14,10 @@
 
 <img width="276" height="244" src="https://raw.githubusercontent.com/onlywyj/CloudTool/master/README_image/CloudTool.png"/>   <img width="276" height="244" src="https://raw.githubusercontent.com/onlywyj/CloudTool/master/README_image/CloudTool2.png"/>   <img width="276" height="244" src="https://raw.githubusercontent.com/onlywyj/CloudTool/master/README_image/CloudTool3.png"/>
 
+#### 常见问题
+
+ * 运行提示**缺少XXX.dll**。这个是电脑缺少某些dll导致的，正常的系统是没有这个问题的，解决办法需根据提示信息自行百度解决。
+ 
 #### 源代码使用说明
 
  * Qt5.9.8或更高版本

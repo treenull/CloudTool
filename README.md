@@ -1,6 +1,6 @@
 # CloudTool
 
-[![下载](https://img.shields.io/badge/download-lanzouyun-brightgreen)](https://www.lanzous.com/b00n5iagd)
+[![下载](https://img.shields.io/badge/download-lanzou-brightgreen)](https://www.lanzous.com/b00n5iagd)
 [![版本](https://img.shields.io/badge/release-v1.2.8-blue)](https://github.com/onlywyj/CloudTool/releases)
 [![协议](https://img.shields.io/github/license/onlywyj/CloudTool?color=brightgreen)](https://github.com/onlywyj/CloudTool/blob/master/LICENSE)
 

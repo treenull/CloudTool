@@ -4,7 +4,7 @@
 [![版本](https://img.shields.io/badge/release-v1.2.8-blue)](https://github.com/onlywyj/CloudTool/releases)
 [![协议](https://img.shields.io/github/license/onlywyj/CloudTool?color=brightgreen)](https://github.com/onlywyj/CloudTool/blob/master/LICENSE)
 
-整合各种实用程序的工具箱软件
+集成各种实用程序的工具箱，Windows平台，Qt开发，C++
 
 #### 说明
 
